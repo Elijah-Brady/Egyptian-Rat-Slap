@@ -1,7 +1,7 @@
-package com.spring.ERSBackend.controller;
+package com.spring.ERSBackend.Websockets;
 
 import com.spring.ERSBackend.Entities.Game;
-import com.spring.ERSBackend.Entities.players.Player;
+import com.spring.ERSBackend.Entities.Player;
 import com.spring.ERSBackend.Repository.GameRepository;
 import com.spring.ERSBackend.Services.Sort;
 import jakarta.websocket.*;

@@ -1,6 +1,6 @@
 package com.spring.ERSBackend.Services;
 
-import com.spring.ERSBackend.Entities.players.Player;
+import com.spring.ERSBackend.Entities.Player;
 
 import java.util.ArrayList;
 

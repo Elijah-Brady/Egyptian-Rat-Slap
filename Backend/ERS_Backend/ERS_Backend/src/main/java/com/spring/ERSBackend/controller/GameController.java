@@ -1,7 +1,7 @@
 package com.spring.ERSBackend.controller;
 
 import com.spring.ERSBackend.Entities.Game;
-import com.spring.ERSBackend.Entities.players.Player;
+import com.spring.ERSBackend.Entities.Player;
 import com.spring.ERSBackend.Repository.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

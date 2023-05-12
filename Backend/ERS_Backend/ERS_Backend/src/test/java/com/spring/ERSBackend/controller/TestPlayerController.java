@@ -2,7 +2,7 @@
 //
 //import com.fasterxml.jackson.databind.ObjectMapper;
 //import com.spring.ERSBackend.Entities.Game;
-//import com.spring.ERSBackend.Entities.players.Player;
+//import com.spring.ERSBackend.Entities.Player;
 //import com.spring.ERSBackend.Repository.GameRepository;
 //import com.spring.ERSBackend.Repository.PlayerRepository;
 //import org.junit.Test;

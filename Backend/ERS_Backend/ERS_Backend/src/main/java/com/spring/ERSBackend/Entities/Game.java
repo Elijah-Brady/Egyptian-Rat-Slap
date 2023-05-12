@@ -1,14 +1,10 @@
 package com.spring.ERSBackend.Entities;
 
-import com.spring.ERSBackend.Entities.players.Player;
-import com.spring.ERSBackend.Entities.standardDeck.Deck;
 import jakarta.persistence.*;
-import org.hibernate.action.internal.OrphanRemovalAction;
 import org.hibernate.annotations.Cascade;
 
 import java.util.*;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 

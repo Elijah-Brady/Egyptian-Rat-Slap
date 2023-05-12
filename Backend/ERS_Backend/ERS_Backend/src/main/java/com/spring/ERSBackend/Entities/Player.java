@@ -1,7 +1,6 @@
-package com.spring.ERSBackend.Entities.players;
+package com.spring.ERSBackend.Entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.spring.ERSBackend.Entities.Game;
 import jakarta.annotation.Nullable;
 import jakarta.persistence.*;
 
