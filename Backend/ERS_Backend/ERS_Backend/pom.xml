@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring</groupId>
-	<artifactId>cardPractice</artifactId>
+	<artifactId>ERS_Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cardPractice</name>
+	<name>ERS_Backend</name>
 	<description>practice using springboot with card objects</description>
 	<properties>
 		<java.version>19</java.version>
